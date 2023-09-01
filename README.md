@@ -1,6 +1,6 @@
 # Flight-Radar-App
 
-Translation app that supports 100+ languages
+Flight Radar app that supports max 300 flights
 
 ## Used Technologies
 
